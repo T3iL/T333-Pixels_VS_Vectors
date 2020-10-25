@@ -1,4 +1,4 @@
-# (2020.10.19/20) T308-Canvas SVG
+# (2020.10.26/27) T308-Canvas SVG
 ## -------INFO
 ```
 1. <canvas>
@@ -7,20 +7,16 @@
 
 ### --------ZAD
 ```
-T30701 - Przygotuj prosty odtwarzacz audio odtwarzający kilka utworów. Zastosuj ikony Play/stop
+T30801 - 
 
-T30702 - 
-Umieść zapętlone wideo jako pełnoekranowe responsywne tło strony.
-Umieść tytuł i podtytuł.
-Zaciemniaj video po najechaniu myszą na tytuł. 
-
-T30703 - Przygotuj animowany w CSS spinner (nieskończony obrót)
-```
+T30802 - 
 
 ### --------Links
-https://github.com/T4aiL/T407-MultiMedia
+https://github.com/T3iL/T308-Canvas_SVG
 
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe?usp=sharing
+
+https://developer.mozilla.org/pl/docs/Web/API/Canvas_API/Tutorial
 
 https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
 ### --------Repositiories
