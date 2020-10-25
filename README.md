@@ -2,7 +2,8 @@
 ## -------INFO
 ```
 1. <canvas>
-2. <svg> inkscape
+2. <svg> 
+3. inkscape
 ```
 
 ### --------ZAD
