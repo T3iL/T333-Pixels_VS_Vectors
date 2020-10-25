@@ -13,9 +13,9 @@ T30802 - Wypełnij planszę 100x100 kwadracikami w losowym kolorze.
 
 T30803 - Animuj ruch kwadratu
 
-T30804 - Wyrysuj sinusoidę
+T30804 - Narysuj sinusoidę
 
-T30805 - Animuj sinusoidę
+T30805 - Zanimuj sinusoidę
 
 ### --------Links
 https://github.com/T3iL/T308-Canvas_SVG
