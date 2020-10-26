@@ -4,6 +4,8 @@
 1. <canvas>
 2. <svg> 
 3. inkscape
+4. Keyboard JS
+5. setInterval, setTimeout
 ```
 
 ### --------ZAD
