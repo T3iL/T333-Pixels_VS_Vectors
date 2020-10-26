@@ -10,7 +10,7 @@
 ```
 T30801 - Narysuj, kwadrat, Trójkąt, Koło
 
-T30802 - Wypełnij planszę 100x100 kwadracikami w losowym kolorze.
+T30802 - Wypełnij planszę 400x400 kwadracikami o rozmiarze 20 w losowym kolorze.
 
 T30803 - Animuj ruch kwadratu
 
