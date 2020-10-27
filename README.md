@@ -20,7 +20,8 @@ T30804 - Narysuj sinusoidę
 
 T30805 - Zanimuj sinusoidę
 
-T30806 - Narysuj trójkąt i czwaorokąt wpisane okrąg jako grafikę rastrową i wektorową umieszczone na stronie HTML.
+T30806 - Narysuj trójkąt i czwaorokąt wpisane okrąg jako grafikę rastrową 
+i wektorową umieszczone na stronie HTML.
 
 T30807 - Utwórz grę Chrome T-Rex na elemtentach HTML lub w Canvas
 
