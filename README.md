@@ -16,10 +16,6 @@ T30802 - Wypełnij planszę 400x400 kwadracikami o rozmiarze 20 w losowym kolorz
 
 T30803 - Animuj ruch kwadratu
 
-T30804 - Narysuj sinusoidę
-
-T30805 - Zanimuj sinusoidę
-
 T30806 - Narysuj trójkąt i czwaorokąt wpisane okrąg jako grafikę rastrową 
 i wektorową umieszczone na stronie HTML.
 
