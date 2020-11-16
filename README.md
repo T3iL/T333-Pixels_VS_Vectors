@@ -24,6 +24,8 @@ T30807 - Utwórz grę Chrome T-Rex na elemtentach HTML lub w Canvas
 ### --------Links
 https://github.com/T3iL/T308-Canvas_SVG
 
+https://github.com/canvg/canvg
+
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe?usp=sharing
 
 https://developer.mozilla.org/pl/docs/Web/API/Canvas_API/Tutorial
