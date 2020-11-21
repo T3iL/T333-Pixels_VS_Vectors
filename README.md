@@ -26,6 +26,8 @@ https://github.com/T3iL/T308-Canvas_SVG
 
 https://github.com/canvg/canvg
 
+http://svg-wow.org/
+
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe?usp=sharing
 
 https://developer.mozilla.org/pl/docs/Web/API/Canvas_API/Tutorial
