@@ -20,7 +20,7 @@ T30806 - Narysuj trójkąt i czwaorokąt wpisane okrąg jako grafikę rastrową
 i wektorową umieszczone na stronie HTML.
 
 T30807 - Utwórz grę Chrome T-Rex na elemtentach HTML lub w Canvas
-
+```
 ### --------Links
 https://github.com/T3iL/T308-Canvas_SVG
 
@@ -28,7 +28,7 @@ https://github.com/canvg/canvg
 
 http://svg-wow.org/
 
-GOOGLE DRIVE: https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe?usp=sharing
+GOOGLE DRIVE: https://drive.google.com/drive/folders/1OqTcjwr_qAdTPO-dThxUOd3ooTTOlzgp?usp=sharing
 
 https://developer.mozilla.org/pl/docs/Web/API/Canvas_API/Tutorial
 
