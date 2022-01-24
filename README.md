@@ -1,4 +1,4 @@
-# (2020.10.26/27) T308-Canvas SVG
+#T308-Canvas SVG
 ## -------INFO
 ```
 1. <canvas>
