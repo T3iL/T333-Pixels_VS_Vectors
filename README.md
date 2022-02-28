@@ -8,6 +8,8 @@
 5. setInterval, setTimeout
 ```
 
+https://prod.liveshare.vsengsaas.visualstudio.com/join?9461F62F6DD7ABFA289AA76C75F69E5D0D66
+
 ### --------ZAD
 ```
 T30801 - Narysuj, kwadrat, Trójkąt, Koło
