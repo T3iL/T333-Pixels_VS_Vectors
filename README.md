@@ -22,7 +22,7 @@ i wektorową umieszczone na stronie HTML.
 T30807 - Utwórz grę Chrome T-Rex na elemtentach HTML lub w Canvas
 ```
 ### --------Links
-https://github.com/T3iL/T333-Canvas_SVG
+https://github.com/T3iL/T333-Pixels_VS_Vectors
 
 https://github.com/canvg/canvg
 
