@@ -12,7 +12,7 @@ https://prod.liveshare.vsengsaas.visualstudio.com/join?A3B62AEBBB25C6485B70218B7
 
 ### --------ZAD
 ```
-T30801 - Narysuj, kwadrat, Trójkąt, Koło, serce
+T30801 - Narysuj, kwadrat, Trójkąt, Koło, serce w Canvas i w SVG
 
 T30802 - Wypełnij planszę 400x400 kwadracikami o rozmiarze 20 w losowym kolorze.
 
