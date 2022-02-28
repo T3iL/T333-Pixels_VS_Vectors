@@ -8,7 +8,7 @@
 5. setInterval, setTimeout
 ```
 
-https://prod.liveshare.vsengsaas.visualstudio.com/join?9461F62F6DD7ABFA289AA76C75F69E5D0D66
+https://prod.liveshare.vsengsaas.visualstudio.com/join?DC33EA18F5E3B267EFACD7B37AC37ABC426D
 
 ### --------ZAD
 ```
