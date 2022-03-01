@@ -14,6 +14,9 @@ https://prod.liveshare.vsengsaas.visualstudio.com/join?A3B62AEBBB25C6485B70218B7
 ```
 T30801 - Narysuj, kwadrat, Trójkąt, Koło, serce w Canvas i w SVG
 
+T30802 - Przygotuj kartkę okolicznościową z napisem powstającym przez obrys (efekt pisanie ręcznego).
+Zastosuj SVG stroke. Przykładowa treść napisu: "Kocham cię!", Dzień dobry!, Hello! itp. 
+
 T30802 - Wypełnij planszę 400x400 kwadracikami o rozmiarze 20 w losowym kolorze.
 
 T30803 - Animuj ruch kwadratu
