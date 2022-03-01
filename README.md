@@ -1,8 +1,8 @@
 #T333-Canvas SVG
 ## -------INFO
 ```
-1. <canvas>
-2. <svg> 
+1. <canvas> - http://kursjs.pl/kurs/canvas/canvas.php
+2. <svg> - https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
 3. inkscape
 4. Keyboard JS
 5. setInterval, setTimeout
@@ -32,7 +32,7 @@ http://svg-wow.org/
 
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1OqTcjwr_qAdTPO-dThxUOd3ooTTOlzgp?usp=sharing
 
-https://developer.mozilla.org/pl/docs/Web/API/Canvas_API/Tutorial
+[SVG Tutorial - Draw Any Path Animation](https://www.youtube.com/watch?v=cFhIc30crWA)
 
 https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
 ### --------Repositiories
