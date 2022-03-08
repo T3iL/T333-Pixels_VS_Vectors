@@ -8,8 +8,6 @@
 5. setInterval, setTimeout
 ```
 
-https://prod.liveshare.vsengsaas.visualstudio.com/join?A3B62AEBBB25C6485B70218B7CBDC17170BC
-
 ### --------ZAD
 ```
 T30801 - Narysuj, kwadrat, Trójkąt, Koło, serce w Canvas i w SVG
